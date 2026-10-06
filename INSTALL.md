@@ -23,7 +23,7 @@ diseño.
 
 ## Requisitos
 
-- Node.js 18 o superior (recomendado 20+).
+- Node.js 22 o superior.
 - npm.
 - nginx o Apache ya sirviendo la web anfitriona (para añadir las rutas de
   proxy).

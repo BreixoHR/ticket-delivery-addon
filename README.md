@@ -4,7 +4,7 @@ Microservicio en **Node.js** que entrega las entradas a los clientes de un e-com
 
 > Desarrollado en producción para varias webs de venta de entradas a monumentos. Esta versión pública está saneada, sin marcas, IDs ni datos reales.
 
-![tests](https://img.shields.io/badge/tests-node%3Atest-informational) ![node](https://img.shields.io/badge/node-%E2%89%A518-339933) ![license](https://img.shields.io/badge/license-MIT-blue)
+![tests](https://img.shields.io/badge/tests-node%3Atest-informational) ![node](https://img.shields.io/badge/node-%E2%89%A522-339933) ![license](https://img.shields.io/badge/license-MIT-blue)
 
 ## El problema
 

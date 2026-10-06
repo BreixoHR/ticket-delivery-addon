@@ -3,7 +3,7 @@
   "version": "1.2.0",
   "private": true,
   "license": "MIT",
-  "engines": { "node": ">=18" },
+  "engines": { "node": ">=22" },
   "description": "Addon independiente de descarga de tickets, portable entre webs",
   "type": "module",
   "main": "server.js",
